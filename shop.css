@@ -1,0 +1,18 @@
+.product img{
+    width: 100%;
+    height: auto;
+    box-sizing: border-box;
+    object-fit: cover;
+}
+body > section > div.row.mx-auto.container > div.row.mx-auto.container > div.row.mx-auto.container > div.row.mx-auto.container > div.row.mx-auto.container > nav > ul > li.page-item.active > a{
+    background-color: black;
+}
+
+body > section > div.row.mx-auto.container > div.row.mx-auto.container > div.row.mx-auto.container > div.row.mx-auto.container > div.row.mx-auto.container > nav > ul > li:nth-child(n):hover a{
+    background-color: coral;
+    color: #fff;
+}
+
+.pagination a{
+    color: #000;
+}
